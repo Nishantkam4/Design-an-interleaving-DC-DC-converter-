@@ -1,1 +1,34 @@
-# Design-an-interleaving-DC-DC-converter-
+# Design-an-interleaving-DC-DC-converter-                    
+[Design of an interleaving DC.pdf](https://github.com/Nishantkam4/Design-an-interleaving-DC-DC-converter-/files/14397624/Design.of.an.interleaving.DC.pdf)
+
+                     
+
+ 
+
+       
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+        
+
+
+
+
+
+         
+
+
