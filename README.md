@@ -1,4 +1,4 @@
-# Design-of-an-interleaving-DC-DC-converter-                    
+# Simulation-of-an-interleaving-DC-DC-converter-                    
 
 
                      
